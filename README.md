@@ -15,7 +15,7 @@ Arrays of pre-parsed HSI patches are loaded in for use as inputs. These arrays a
 After the pretraining stage, a .mat file 'encoded_imgs_pretrain.mat' containing the latent vector for each patch is saved. k-means clustering is used to acquire the resultant segmentation image.  
 
 ### End-to-end clustering  
-A model file from the pretraining stage mentioned above is loaded, and the autoencoder module and clustering module are trained together. The .mat file 'cluster_out_train.mat' contains the cluster ID for each patch.  
+A model file from the pretraining stage mentioned above is loaded, and the autoencoder module and clustering module are trained together. Once training is complete, a .mat file 'cluster_out_train.mat' is saved, which contains the cluster ID for each input patch.  
 
 
 #### References
