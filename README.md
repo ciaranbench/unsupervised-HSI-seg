@@ -9,7 +9,7 @@ School of Physics and Astronomy, University of Exeter, Exeter, UK
 
 This repository contains i) python files used to train/evaluate segmentation networks, ii) som results, and iii) code used to analyse network outputs. Some NMI score/ARS values and CAE+k-means images may differ slightly from those seen in the paper, as a fixed seed was not used to run k-means.  
 
-Arrays of pre-parsed HSI patches are loaded in for use as inputs. These arrays are not included in this repo.
+Arrays of pre-parsed HSI patches are loaded in for use as inputs. These arrays are not included in this repository as permission has not yet been granted to distribute it to the wider public. 
 
 ### CAE+k-means clustering  
 After the pretraining stage, a .mat file 'encoded_imgs_pretrain.mat' containing the latent vector for each patch is saved. k-means clustering is used to acquire the resultant segmentation image.  
