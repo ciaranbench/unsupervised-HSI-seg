@@ -7,7 +7,7 @@ School of Physics and Astronomy, University of Exeter, Exeter, UK
 <img src="./README_files/abstract.PNG">
 <img src="./README_files/arch_github.PNG">  
 
-This repository contains python files used to train/evaluate segmentation networks, some of the results shown in the paper, and code used to analyse network outputs. Some NMI score/ARS values and CAE+k-means images may differ slightly from those seen in the paper, as a fixed seed was not used to run k-means.  
+This repository contains i) python files used to train/evaluate segmentation networks, ii) som results, and iii) code used to analyse network outputs. Some NMI score/ARS values and CAE+k-means images may differ slightly from those seen in the paper, as a fixed seed was not used to run k-means.  
 
 Arrays of pre-parsed HSI patches are loaded in for use as inputs. These arrays are not included in this repo.
 
@@ -23,7 +23,9 @@ Much of the network code was adapted from the following resources:
 
 [X. Guo, X. Liu, E. Zhu, and J. Yin, “Deep clustering with convolutional autoencoders,” in International conference on neural information
 processing, pp. 373–382, Springer, 2017.](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf)  
+MIT license. Copyright (c) 2020 Xifeng Guo
 
 [B. Manifold, S. Men, R. Hu, and D. Fu, “A versatile deep learning
 architecture for classification and label-free prediction of hyperspectral
 images,” Nature machine intelligence, vol. 3, no. 4, pp. 306–315, 2021.](https://doi.org/10.1038%2Fs42256-021-00309-y)
+Allen Institute Software License Copyright © 2018. Allen Institute.
