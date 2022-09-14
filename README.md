@@ -27,5 +27,5 @@ MIT license. Copyright (c) 2020 Xifeng Guo
 
 [B. Manifold, S. Men, R. Hu, and D. Fu, “A versatile deep learning
 architecture for classification and label-free prediction of hyperspectral
-images,” Nature machine intelligence, vol. 3, no. 4, pp. 306–315, 2021.](https://doi.org/10.1038%2Fs42256-021-00309-y)
+images,” Nature machine intelligence, vol. 3, no. 4, pp. 306–315, 2021.](https://doi.org/10.1038%2Fs42256-021-00309-y)  
 Allen Institute Software License Copyright © 2018. Allen Institute.
