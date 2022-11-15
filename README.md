@@ -4,6 +4,8 @@
 Ciaran Bench, Jayakrupakar Nallala, Chun-Chin Wang, Hannah Sheridan, Nicholas Stone  
 School of Physics and Astronomy, University of Exeter, Exeter, UK  
 
+[https://doi.org/10.1364/BOE.476233](https://doi.org/10.1364/BOE.476233)
+
 <img src="./README_files/abstract.PNG">
 <img src="./README_files/arch_github.PNG">  
 
